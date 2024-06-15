@@ -1,0 +1,1 @@
+d:\miniconda3\envs\project\lib\site-packages\propinf-0.0.1-py3.9.egg
